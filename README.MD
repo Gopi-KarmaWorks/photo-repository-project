@@ -23,7 +23,7 @@ The Purpose of this repository is to simply store and organize a small smaple of
 - date_created
 - format
 - tags
-- location
+- path
 
 ## Metadata Rules
 
