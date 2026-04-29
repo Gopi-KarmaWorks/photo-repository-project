@@ -22,10 +22,19 @@ The Purpose of this repository is to simply store and organize a small smaple of
 - creator
 - date_created
 - format
-- category
 - tags
-- location
-- description
+
+## Metadata Rules
+
+- Images in the same batch may share a majority of the same tags, but atleast one of them must be different from one another.
+- No less than 5 Tags, and no more than 15 tags per image. 
+- If an image's creation date is known, Use the date of ingestion, and use the full datetime format 00/00/0000 rather than 00/00/00. 
+
+## Naming Rules
+
+-Photos taken in the same batch must share atleast mostly the same name, with the difference being distinguied by a number
+ IE: Two photos taken at a fashion show named "Fashion_Portrait-1" and "Fasion_Portrait-2". 
+- Words must be distinguished with an underscore (" _ "), while numbers will be attached with a dash (" - "). 
 
 
 ## Items Currently Stored
