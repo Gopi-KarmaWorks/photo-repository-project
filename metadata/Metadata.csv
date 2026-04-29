@@ -1,7 +1,7 @@
 Table 1
-item_id,title,creator,datetime,tags,format
-item01,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event", RAW 48mp.
-item02,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event", RAW 48mp.
-item03,taipei_skyline,Gopi Chadalavada,04/08/25,"Travel, skyline, cityscape, urban", RAW 48mp.
-item04,gr86_mountain_overlook,Gopi Chadalavada,03/23/26, "car, gr86, mountain, overlook, roadtrip, Colorado, snow", RAW 48mp.
-item05,snowy_mountain_cliff,Gopi Chadalavada,03/23/26, "mountain, cliff, snow, landscape, nature","Pikes Peak, Colorado, USA", RAW 48mp.
+item_id,title,creator,datetime,tags,format, path
+item01,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event", RAW 48mp, "/event/".
+item02,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event", RAW 48mp, "/event/"
+item03,taipei_skyline,Gopi Chadalavada,04/08/25,"Travel, skyline, cityscape, urban", RAW 48mp, "/travel/".
+item04,gr86_mountain_overlook,Gopi Chadalavada,03/23/26, "car, gr86, mountain, overlook, roadtrip, Colorado, snow", RAW 48mp, "/travel/".
+item05,snowy_mountain_cliff,Gopi Chadalavada,03/23/26, "mountain, cliff, snow, landscape, nature","Pikes Peak, Colorado, USA", RAW 48mp, "/travel/".
