@@ -1,7 +1,7 @@
 Table 1
-item_id,title,creator,date_created,format,category,tags,location,description
-item01,runway_portrait,Gopi Chadalavada,04/21/2024,RAW,event,"fashion, runway, portrait, model, event",University of North Texas Ballroom,Portrait photograph taken during a fashion runway show. 
-item02,runway_portrait,Gopi Chadalavada,04/21/2024,RAW,event,"fashion, runway, portrait, model, event",University of North Texas Ballroom,Portrait photograph taken during a fashion runway show. 
-item03,taipei_skyline,Gopi Chadalavada,04/08/2025,RAW,travel,"Travel, skyline, cityscape, urban","Taipei 101 in  Taipei, Taiwan.",High-angle photo taken of the Taipei city skyline from the top of Taipei 101.
-item04,gr86_mountain_overlook,Gopi Chadalavada,3/23/2026,RAW,travel,"car, gr86, mountain, overlook, roadtrip, Colorado, snow","Pikes Peak, Colorado, USA",Scenic shot of my Toyota GR86 parked at a mountain overlook at Pikes Peak. 
-item05,snowy_mountain_cliff,Gopi Chadalavada,3/23/2026,RAW,travel,"mountain, cliff, snow, landscape, nature","Pikes Peak, Colorado, USA","Landscape photo showing the Rocky Mountains in the horizon, from atop Pikes Peak. "
+item_id,title,creator,datetime,tags,format
+item01,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event"
+item02,runway_portrait,Gopi Chadalavada,04/21/24,"fashion, runway, portrait, model, event"
+item03,taipei_skyline,Gopi Chadalavada,04/08/25,"Travel, skyline, cityscape, urban"
+item04,gr86_mountain_overlook,Gopi Chadalavada,03/23/26, "car, gr86, mountain, overlook, roadtrip, Colorado, snow" 
+item05,snowy_mountain_cliff,Gopi Chadalavada,03/23/26, "mountain, cliff, snow, landscape, nature","Pikes Peak, Colorado, USA",
